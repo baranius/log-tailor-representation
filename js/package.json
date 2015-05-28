@@ -1,0 +1,8 @@
+{
+  "name": "log-viewer",
+  "version": "0.0.1",
+  "description": "real time log viewer",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
